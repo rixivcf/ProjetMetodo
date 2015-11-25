@@ -9,7 +9,8 @@ import junit.framework.TestCase;
 public class TriRechercheTest extends TestCase {
 
 	public void testInitTab() {
-		fail("Not yet implemented");
+		int tab[] ;
+		TriRecherche t = new initTab(tab,100);
 	}
 
 	public void testAfficheTab() {
